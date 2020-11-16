@@ -1,0 +1,30 @@
+/* Class = "UILabel"; text = "0"; ObjectID = "2ZM-EY-bj2"; */
+"2ZM-EY-bj2.text" = "0";
+
+/* Class = "UILabel"; text = "Player 2"; ObjectID = "2op-MX-8yV"; */
+"2op-MX-8yV.text" = "Jugador 2";
+
+/* Class = "UILabel"; text = "Rules"; ObjectID = "3dr-S1-Tyv"; */
+"3dr-S1-Tyv.text" = "Reglas";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "26u-sm-Xti"; */
+"26u-sm-Xti.text" = "000";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "Erw-wn-WHH"; */
+"Erw-wn-WHH.text" = "000";
+
+/* Class = "UIButton"; normalTitle = "Roll the dice"; ObjectID = "XRI-Um-t2S"; */
+"XRI-Um-t2S.normalTitle" = "Tirar";
+
+/* Class = "UILabel"; text = "Player 1"; ObjectID = "abE-nX-IC9"; */
+"abE-nX-IC9.text" = "Jugador 1";
+
+/* Class = "UILabel"; text = "P1"; ObjectID = "jbx-yy-tab"; */
+"jbx-yy-tab.text" = "J1";
+
+/* Class = "UIButton"; normalTitle = "Pick up the rolls"; ObjectID = "rJG-QQ-pZt"; */
+"rJG-QQ-pZt.normalTitle" = "Recoger";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "sNt-Xg-TI6"; */
+"sNt-Xg-TI6.normalTitle" = "Jugar";
+

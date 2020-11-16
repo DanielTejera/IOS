@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Dices/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="Dices/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="2ZM-EY-bj2.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "2ZM-EY-bj2";</note>
+      </trans-unit>
+      <trans-unit id="2op-MX-8yV.text">
+        <source>Player 2</source>
+        <target>Jugador 2</target>
+        <note>Class = "UILabel"; text = "Player 2"; ObjectID = "2op-MX-8yV";</note>
+      </trans-unit>
+      <trans-unit id="3dr-S1-Tyv.text">
+        <source>Rules</source>
+        <target>Reglas</target>
+        <note>Class = "UILabel"; text = "Rules"; ObjectID = "3dr-S1-Tyv";</note>
+      </trans-unit>
+      <trans-unit id="26u-sm-Xti.text">
+        <source>000</source>
+        <target>000</target>
+        <note>Class = "UILabel"; text = "000"; ObjectID = "26u-sm-Xti";</note>
+      </trans-unit>
+      <trans-unit id="Erw-wn-WHH.text">
+        <source>000</source>
+        <target>000</target>
+        <note>Class = "UILabel"; text = "000"; ObjectID = "Erw-wn-WHH";</note>
+      </trans-unit>
+      <trans-unit id="XRI-Um-t2S.normalTitle">
+        <source>Roll the dice</source>
+        <target>Tirar</target>
+        <note>Class = "UIButton"; normalTitle = "Roll the dice"; ObjectID = "XRI-Um-t2S";</note>
+      </trans-unit>
+      <trans-unit id="abE-nX-IC9.text">
+        <source>Player 1</source>
+        <target>Jugador 1</target>
+        <note>Class = "UILabel"; text = "Player 1"; ObjectID = "abE-nX-IC9";</note>
+      </trans-unit>
+      <trans-unit id="jbx-yy-tab.text">
+        <source>P1</source>
+        <target>J1</target>
+        <note>Class = "UILabel"; text = "P1"; ObjectID = "jbx-yy-tab";</note>
+      </trans-unit>
+      <trans-unit id="rJG-QQ-pZt.normalTitle">
+        <source>Pick up the rolls</source>
+        <target>Recoger</target>
+        <note>Class = "UIButton"; normalTitle = "Pick up the rolls"; ObjectID = "rJG-QQ-pZt";</note>
+      </trans-unit>
+      <trans-unit id="sNt-Xg-TI6.normalTitle">
+        <source>Play</source>
+        <target>Jugar</target>
+        <note>Class = "UIButton"; normalTitle = "Play"; ObjectID = "sNt-Xg-TI6";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Dices/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Dices/Localizable.strings" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id=" begins the turn">
+        <source> begins the turn</source>
+        <target> empieza el turno</target>
+        <note>Turn alert message 2</note>
+      </trans-unit>
+      <trans-unit id=" starts">
+        <source> starts</source>
+        <target> empieza</target>
+        <note>Start message 2</note>
+      </trans-unit>
+      <trans-unit id=" wins!">
+        <source> wins!</source>
+        <target> ha ganado</target>
+        <note>Win title 2</note>
+      </trans-unit>
+      <trans-unit id="Accept">
+        <source>Accept</source>
+        <target>Aceptar</target>
+        <note>Accept action</note>
+      </trans-unit>
+      <trans-unit id="In the game two players take turns.\n \nAt each turn, a player repeatedly rolls a die, accumulating the score obtained on each roll until he rolls a 1 or decides to collect the accumulated score and add it to his overall score.\nThe player who first reaches 100 points in his overall score wins.\n \nIf the player with the turn draws a 1 in a roll, he loses the turn, which passes to the other player, and the accumulated score in that turn does not add up to his overall score.">
+        <source>In the game two players take turns.
+ 
+At each turn, a player repeatedly rolls a die, accumulating the score obtained on each roll until he rolls a 1 or decides to collect the accumulated score and add it to his overall score.
+The player who first reaches 100 points in his overall score wins.
+ 
+If the player with the turn draws a 1 in a roll, he loses the turn, which passes to the other player, and the accumulated score in that turn does not add up to his overall score.</source>
+        <target>En el juego intervienen dos jugadores por turnos.
+            
+En cada turno, un jugador tira repetidamente un dado, acumulando la puntuación obtenida en cada tirada hasta que saca un 1 o decide recoger la puntuación acumulada y sumarla a su puntuación global.
+Gana el jugador que primero alcanza 100 puntos en su puntuación global.
+            
+Si el jugador que tiene el turno saca un 1 en una tirada, pierde el turno, que pasa al otro jugador, y la puntuación acumulada en ese turno no se suma a su puntuación global.</target>
+        <note>Rules</note>
+      </trans-unit>
+      <trans-unit id="Let's start the game!">
+        <source>Let's start the game!</source>
+        <target>¡Comienza el juego!</target>
+        <note>Start game title</note>
+      </trans-unit>
+      <trans-unit id="New turn!">
+        <source>New turn!</source>
+        <target>Nuevo turno</target>
+        <note>New turn title</note>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>No</target>
+        <note>No</note>
+      </trans-unit>
+      <trans-unit id="P">
+        <source>P</source>
+        <target>J</target>
+        <note>Player name</note>
+      </trans-unit>
+      <trans-unit id="P1">
+        <source>P1</source>
+        <target>J1</target>
+        <note>Player name 1</note>
+      </trans-unit>
+      <trans-unit id="P2">
+        <source>P2</source>
+        <target>J2</target>
+        <note>Player name 2</note>
+      </trans-unit>
+      <trans-unit id="Play again?">
+        <source>Play again?</source>
+        <target>¿Jugar de nuevo?</target>
+        <note>Win message</note>
+      </trans-unit>
+      <trans-unit id="Player ">
+        <source>Player </source>
+        <target>Jugador </target>
+        <note>Start message 1
+   Turn alert message 1
+   Win title 1</note>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Si</target>
+        <note>Yes</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

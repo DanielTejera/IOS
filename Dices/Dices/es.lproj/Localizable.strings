@@ -1,0 +1,54 @@
+/* Turn alert message 2 */
+" begins the turn" = " empieza el turno";
+
+/* Start message 2 */
+" starts" = " empieza";
+
+/* Win title 2 */
+" wins!" = " ha ganado";
+
+/* Accept action */
+"Accept" = "Aceptar";
+
+/* Rules */
+"In the game two players take turns.
+ 
+At each turn, a player repeatedly rolls a die, accumulating the score obtained on each roll until he rolls a 1 or decides to collect the accumulated score and add it to his overall score.
+The player who first reaches 100 points in his overall score wins.
+ 
+If the player with the turn draws a 1 in a roll, he loses the turn, which passes to the other player, and the accumulated score in that turn does not add up to his overall score." = "En el juego intervienen dos jugadores por turnos.
+            
+En cada turno, un jugador tira repetidamente un dado, acumulando la puntuación obtenida en cada tirada hasta que saca un 1 o decide recoger la puntuación acumulada y sumarla a su puntuación global.
+Gana el jugador que primero alcanza 100 puntos en su puntuación global.
+            
+Si el jugador que tiene el turno saca un 1 en una tirada, pierde el turno, que pasa al otro jugador, y la puntuación acumulada en ese turno no se suma a su puntuación global.";
+
+/* Start game title */
+"Let's start the game!" = "¡Comienza el juego!";
+
+/* New turn title */
+"New turn!" = "Nuevo turno";
+
+/* No */
+"No" = "No";
+
+/* Player name */
+"P" = "J";
+
+/* Player name 1 */
+"P1" = "J1";
+
+/* Player name 2 */
+"P2" = "J2";
+
+/* Win message */
+"Play again?" = "¿Jugar de nuevo?";
+
+/* Start message 1
+   Turn alert message 1
+   Win title 1 */
+"Player " = "Jugador ";
+
+/* Yes */
+"Yes" = "Si";
+
