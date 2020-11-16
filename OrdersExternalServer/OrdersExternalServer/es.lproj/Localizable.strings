@@ -1,0 +1,13 @@
+/* Order Code Alert Message */
+"The code already exists" = "El código ya existe";
+
+/* Customer Name Alert Message
+   Product Name Alert Message */
+"The name already exists" = "En nombre ya existe";
+
+/* Delete Customer Alert Message */
+"This customer has associated orders" = "El cliente tiene pedidos asociados";
+
+/* Delete Product Alert Message */
+"This product has associated orders" = "El producto tiene pedidos asociados";
+
